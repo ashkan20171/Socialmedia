@@ -172,3 +172,5 @@ F:\project\project\C#\AshkanSocial\AshkanSocial\obj\Debug\net10.0-windows\Ashkan
 F:\project\project\C#\AshkanSocial\AshkanSocial\obj\Debug\net10.0-windows\AshkanSocial.genruntimeconfig.cache
 F:\project\project\C#\AshkanSocial\AshkanSocial\obj\Debug\net10.0-windows\ref\AshkanSocial.dll
 F:\project\project\C#\AshkanSocial\AshkanSocial\obj\Debug\net10.0-windows\AshkanSocial.MainForm.resources
+F:\project\project\C#\AshkanSocial\AshkanSocial\obj\Debug\net10.0-windows\AshkanSocial.sourcelink.json
+F:\project\project\C#\AshkanSocial\AshkanSocial\obj\Debug\net10.0-windows\AshkanSocial.Forms.Pages.HomePageControl.resources

@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "F:\\project\\project\\C#\\AshkanSocial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E18B28AE-377A-4C6E-8A61-D3BDEB341B49}|AshkanSocial\\AshkanSocial.csproj|F:\\project\\project\\C#\\AshkanSocial\\ashkansocial\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E18B28AE-377A-4C6E-8A61-D3BDEB341B49}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\services\\formnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\services\\formnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|f:\\project\\project\\c#\\ashkansocial\\ashkansocial\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6F807C8-11A4-50DE-3C13-375543BAA439}|AshkanSocial\\AshkanSocial.csproj|solutionrelative:ashkansocial\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "RelativeDocumentMoniker": "AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "RelativeToolTip": "AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAiwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:29:05.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "RelativeDocumentMoniker": "AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Forms\\Auth\\LoginForm.cs [Design]",
-              "RelativeToolTip": "AshkanSocial\\Forms\\Auth\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:29:02.952Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Program.cs",
-              "RelativeDocumentMoniker": "AshkanSocial\\Program.cs",
-              "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Program.cs",
-              "RelativeToolTip": "AshkanSocial\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:26:38.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "AshkanSocial\\MainForm.Designer.cs",
-              "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\MainForm.Designer.cs",
-              "RelativeToolTip": "AshkanSocial\\MainForm.Designer.cs",
-              "ViewState": "AgIAABMBAAAAAAAAAADwvzgBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:24:19.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MainForm.cs",
               "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\MainForm.cs",
               "RelativeDocumentMoniker": "AshkanSocial\\MainForm.cs",
               "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\MainForm.cs",
               "RelativeToolTip": "AshkanSocial\\MainForm.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAwwH4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv4YAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:22:43.454Z",
+              "WhenOpened": "2026-08-21T13:30:03.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\MainForm.cs",
-              "RelativeDocumentMoniker": "AshkanSocial\\MainForm.cs",
-              "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\MainForm.cs [Design]",
-              "RelativeToolTip": "AshkanSocial\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:21:18.634Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormNavigationService.cs",
               "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Services\\FormNavigationService.cs",
               "RelativeDocumentMoniker": "AshkanSocial\\Services\\FormNavigationService.cs",
               "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Services\\FormNavigationService.cs",
               "RelativeToolTip": "AshkanSocial\\Services\\FormNavigationService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv28AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T12:14:31.583Z",
+              "WhenOpened": "2026-08-21T13:29:32.694Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "RelativeDocumentMoniker": "AshkanSocial\\Forms\\Auth\\LoginForm.cs",
-              "ToolTip": "F:\\project\\project\\C#\\AshkanSocial\\AshkanSocial\\Forms\\Auth\\LoginForm.cs [Design]",
-              "RelativeToolTip": "AshkanSocial\\Forms\\Auth\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T11:56:47.857Z"
             }
           ]
         }

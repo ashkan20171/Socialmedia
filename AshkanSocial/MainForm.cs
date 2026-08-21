@@ -1,18 +1,25 @@
 ﻿using AshkanSocial.Application.Common.Session;
+using AshkanSocial.Forms.Pages;
 using AshkanSocial.Localization;
+using AshkanSocial.Services;
 
 namespace AshkanSocial;
 
 public partial class MainForm : Form
 {
     private readonly CurrentUserSession _currentUserSession;
+    private readonly FormNavigationService _navigationService;
+
     private bool _isLoadingLanguage;
 
-    public MainForm(CurrentUserSession currentUserSession)
+    public MainForm(
+        CurrentUserSession currentUserSession,
+        FormNavigationService navigationService)
     {
         InitializeComponent();
 
         _currentUserSession = currentUserSession;
+        _navigationService = navigationService;
 
         if (!_currentUserSession.IsAuthenticated)
         {
@@ -28,6 +35,8 @@ public partial class MainForm : Form
 
         LoadLanguage();
         ApplyLanguage();
+
+        ShowHomePage();
     }
 
     private void LoadLanguage()
@@ -58,6 +67,9 @@ public partial class MainForm : Form
         LanguageService.SetLanguage(selectedLanguage);
 
         ApplyLanguage();
+
+        // صفحه فعلی را با زبان جدید دوباره نمایش می‌دهیم.
+        ShowHomePage();
     }
 
     private void ApplyLanguage()
@@ -77,26 +89,22 @@ public partial class MainForm : Form
 
         lblAppName.Text = "Ashkan Social";
 
-        lblWelcome.Text = isPersian
-            ? $"خوش آمدی، {_currentUserSession.DisplayName}!"
-            : $"Welcome back, {_currentUserSession.DisplayName}!";
-
-        lblWelcomeDescription.Text = isPersian
-            ? "برای شروع، یک بخش را از منوی کناری انتخاب کنید."
-            : "Choose an option from the sidebar to get started.";
-
         btnHome.Text = isPersian ? "خانه" : "Home";
         btnChats.Text = isPersian ? "گفت‌وگوها" : "Chats";
         btnContacts.Text = isPersian ? "مخاطبین" : "Contacts";
         btnProfile.Text = isPersian ? "پروفایل" : "Profile";
         btnSettings.Text = isPersian ? "تنظیمات" : "Settings";
         btnLogout.Text = isPersian ? "خروج از حساب" : "Log Out";
+    }
 
-        lblSectionTitle.Text = isPersian ? "خانه" : "Home";
+    private void ShowHomePage()
+    {
+        _navigationService.ShowPage<HomePageControl>(pnlContent);
+    }
 
-        lblComingSoon.Text = isPersian
-            ? "قابلیت‌های شبکهٔ اجتماعی به‌زودی در این بخش قرار می‌گیرند."
-            : "Social features will appear here soon.";
+    private void btnHome_Click(object sender, EventArgs e)
+    {
+        ShowHomePage();
     }
 
     private void btnLogout_Click(object sender, EventArgs e)
@@ -121,6 +129,6 @@ public partial class MainForm : Form
 
         _currentUserSession.Clear();
 
-        Close();
+        _navigationService.ShowLoginAfterLogout(this);
     }
 }

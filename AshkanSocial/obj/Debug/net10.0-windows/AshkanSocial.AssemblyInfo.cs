@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AshkanSocial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+800ed7a231747f202c5376ae161e889e83580e67")]
 [assembly: System.Reflection.AssemblyProductAttribute("AshkanSocial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AshkanSocial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
