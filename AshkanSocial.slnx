@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AshkanSocial.Application/AshkanSocial.Application.csproj" />
+  <Project Path="AshkanSocial.Domain/AshkanSocial.Domain.csproj" />
+  <Project Path="AshkanSocial.Infrastructure/AshkanSocial.Infrastructure.csproj" />
+  <Project Path="AshkanSocial/AshkanSocial.csproj" />
+</Solution>

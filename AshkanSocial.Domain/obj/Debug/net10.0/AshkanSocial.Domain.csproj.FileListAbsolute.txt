@@ -1,0 +1,11 @@
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\bin\Debug\net10.0\AshkanSocial.Domain.deps.json
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\bin\Debug\net10.0\AshkanSocial.Domain.dll
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\bin\Debug\net10.0\AshkanSocial.Domain.pdb
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\AshkanSocial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\AshkanSocial.Domain.AssemblyInfoInputs.cache
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\AshkanSocial.Domain.AssemblyInfo.cs
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\AshkanSocial.Domain.csproj.CoreCompileInputs.cache
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\AshkanSocial.Domain.dll
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\refint\AshkanSocial.Domain.dll
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\AshkanSocial.Domain.pdb
+F:\project\project\C#\AshkanSocial\AshkanSocial.Domain\obj\Debug\net10.0\ref\AshkanSocial.Domain.dll
